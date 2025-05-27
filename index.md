@@ -1,44 +1,43 @@
 ---
-title: Robust and Secure Distributed Computing
+title: Secure code liFEcycle for applications and netWoRking
 subtitle: Research Unit in Fondazione Bruno Kessler
 layout: page
-heroImageLeft: /assets/images/logos/RiSING_symbol.png
+heroImageLeft: /assets/images/logos/SaFEWaRe_symbol.png
 heroImageRight: /assets/images/logos/CS_white.png
 ---
 
 ## Who we are
 
-The Robust and Secure Distributed Computing (RiSING) research unit
-focuses on the investigation of methods and the design and
-implementation of platforms that guarantee efficiency, robustness and
-security in distributed computing environments.
+**At the SaFEWaRe (Secure Code Lifecycle for Applications and Networking) Research Unit, our mission is to advance 
+software security across the entire development lifecycle.**
 
-Our research on security on cloud and network infrastructure revolves
-around offering adaptive and zero-trust defense to cloud-native
-services, with special emphasis on striking the right balance between
-minimizing security risks and maintaining the perceived service quality
-for distributed applications. We have a long-standing experience on
-infrastructure monitoring and control, as well as on resource and
-service orchestration.
+We pursue this through two main research directions:
 
-The unit pursues its research and development activities in the
-following areas:
+1. **Secure Development Practices**: We design tools and methodologies that embed security into every phase of the software 
+lifecycle—from design to deployment.
 
-- Threat and Anomaly Detection and Mitigation: monitoring network and
-  computing devices (through e.g. programmable data planes) to detect
-  attacks (using AI or statistical methods) and counteract them
-- Cyber Deception: algorithms and tools to lure attackers into decoys
-  to gain insights on their behavior
-- Service and Security Orchestration: automated networking and cloud
-  computing solutions to effectively manage business and security
-  applications
+2. **Regulatory Compliance**: We ensure that software systems comply with critical international standards and regulations, 
+including the Network and Information Security Directive (NIS2).
 
-The RiSING unit lies within the [Cybersecurity center](https://cs.fbk.eu/) in [Fondazione Bruno Kessler](https://www.fbk.eu) (FBK).
+Artificial intelligence plays a dual role in our work:
+
+- **As a challenge**, we focus on securely integrating AI into software systems.
+
+- **As a solution**, we harness AI to enhance software analysis and reduce cyber risks through improved accuracy and 
+automation.
+
+Beyond our research, we're proud to collaborate with [Cisco](_collaborations/Cisco.md), actively contributing to the advancement of their optical 
+network control plan.
+
+<br />
+The SaFEWaRe unit lies within the [Cybersecurity center](https://cs.fbk.eu/) in [Fondazione Bruno Kessler](https://www.fbk.eu) (FBK).
 
 ## Research Areas
 
 {% include topics.md %}
 
+<!-- 
 ## In the Spotlight
 
 {% include spotlights.md %}
+-->

@@ -41,21 +41,21 @@ layout: default
 {% endif %}
 
 {% assign affiliationNumbers = person.affiliations.size | minus: 1 %}
-{% assign roleRiSING = nil %}
+{% assign roleSaFEWaRe = nil %}
 {% for counter in (0..affiliationNumbers) %}
     {% if person.affiliations[counter].institution == "Fondazione Bruno Kessler" %}
-        {% if person.affiliations[counter].unit == "Robust and Secure Distributed Computing" or person.affiliations[counter].unit == "Center for Cybersecurity" %}
-            {% assign roleRiSING = person.affiliations[counter].role %}
+        {% if person.affiliations[counter].unit == "Secure code liFEcycle for applications and netWoRking" or person.affiliations[counter].unit == "Center for Cybersecurity" %}
+            {% assign roleSaFEWaRe = person.affiliations[counter].role %}
         {% endif %}
     {% endif %}
 {% endfor %}
-{% unless roleRiSING %}
+{% unless roleSaFEWaRe %}
     {% assign roleRiSiNG = "Collaborator" %}
 {% endunless %}
 
 <div class="content single-fbkperson">
     <span id="set-title">{{ person.name }} {{ person.surname }}</span>
-    <span id="set-subtitle">{{ roleRiSING }}</span>
+    <span id="set-subtitle">{{ roleSaFEWaRe }}</span>
     <div class="columns is-multiline reverse-columns">
         <div class="column is-8-tablet is-9-desktop">
             {% assign strippedContent = content | strip %}
