@@ -1,10 +1,10 @@
-title: Robust and Secure Distributed Computing
+title: Secure code liFEcycle for applications and netWoRking
 tagline: Research Unit in Fondazione Bruno Kessler (FBK)
-logo: /assets/images/logos/RiSING_symbol.png
+logo: /assets/images/logos/SaFEWaRe_symbol.png
 remote_theme: chrisrhymes/bulma-clean-theme@v0.13.3
 markdown: kramdown
-repository: risingfbk/risingfbk.github.io
-url: "https://rising.fbk.eu"
+repository: safewarefbk/safewarefbk.github.io
+url: "https://safeware.fbk.eu"
 baseurl: ""
 
 plugins:
@@ -37,16 +37,16 @@ collections:
     layout: project
     image: https://via.placeholder.com/800x600
     show_sidebar: false
-  teaching:
-    output: true
-    layout: page
-    image: https://via.placeholder.com/800x600
-    show_sidebar: false
-  tools:
-    output: true
-    layout: tool
-    image: https://via.placeholder.com/800x600
-    show_sidebar: false
+#  teaching:
+#    output: true
+#    layout: page
+#    image: https://via.placeholder.com/800x600
+#    show_sidebar: false
+#  tools:
+#    output: true
+#    layout: tool
+#    image: https://via.placeholder.com/800x600
+#    show_sidebar: false
   topics:
     output: true
     layout: topic
@@ -57,7 +57,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /assets/images/logos/RiSING_symbol.png
+      image: /assets/images/logos/SaFEWaRe_symbol.png
 
   - scope:
       type: collaborations
