@@ -35,7 +35,7 @@
   year: 2025
   institution: University of Trento
 
-  - id: CarloSorrentino_B
+- id: CarloSorrentino_B
   title: "Automazione di supporto alla selezione di immagini Docker sicure"
   type: B
   author: CarloSorrentino
@@ -46,7 +46,7 @@
   year: 2025
   institution: University of Trento
 
-  - id: RobertoSavi_B
+- id: RobertoSavi_B
   title: "Integrating Pentesting Tools for Identity Management Protocols into DevSecOps: The MIG-T Use Case"
   type: B
   author: RobertoSavi
