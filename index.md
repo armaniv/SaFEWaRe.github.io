@@ -1,5 +1,5 @@
 ---
-title: Secure code liFEcycle for applications and netWoRking
+title: SaFEWaRe - Secure code liFEcycle for applications and netWoRking
 subtitle: Research Unit in Fondazione Bruno Kessler
 layout: page
 heroImageLeft: /assets/images/logos/SaFEWaRe_symbol.png
