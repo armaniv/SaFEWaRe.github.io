@@ -3,6 +3,36 @@
 # The following string is a separator used by the parser to trim away generated content
 # Please, please, please, keep this here!
 #--#--#--#--#--#
+- id: iris_9999_b3d94f254435b378bacd
+  id_iris: 361187,
+  title: "A First Appraisal of NIS2 and CRA Compliance Leveraging Open Source Tools"
+  authors:
+    - GiovanniCorti
+    - GianlucaSassetti
+    - AmirSharif
+    - SerenaElisaPonta
+    - MatteoRizzi
+    - PietroDeMatteis
+    - LucaPiras
+    - RobertoCarbone
+    - SilvioRanise
+  destination: ieee33rdinternationalrequirementsengineeringconferenceworkshopsrew
+  year: 9999
+
+
+- id: iris_2025_9c717f1e993d917a0dad
+  id_iris: 361407,
+  title: "Towards Continuous Risk Assessment and Conformance Checking of IdM Deployments"
+  authors:
+    - AndreaBisegna
+    - RobertoCarbone
+    - LauraCristiano
+    - PietroDeMatteis
+    - SilvioRanise
+  destination: 202510thieeeeuropeansymposiumonsecurityandprivacyworkshopseurospw
+  year: 2025
+
+
 - id: iris_2024_c56690dc40cba80c3529
   id_iris: 350627,
   title: "Work-in-Progress: A Sidecar Proxy for Usable and Performance-Adaptable End-to-End Protection of Communications in Cloud Native Applications"

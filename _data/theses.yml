@@ -1,3 +1,66 @@
+# 2025
+- id: IsaiaTonini_B
+  title: "Memory safety: dalla teoria alla pratica. Guida per una corretta gestione della memoria"
+  type: B
+  author: IsaiaTonini
+  supervisor: SilvioRanise
+  co-supervisor:
+    - PietroDeMatteis
+    - StefanoBerlato
+  year: 2025
+  institution: University of Trento
+
+- id: MattiaMaramotti_B
+  title: "Testing as a Service for the Security and Compliance of Identity Management Solutions: Enhancing MIG A Scalable Abstract Architecture for Conformance Verification of Network Protocol Implementations"
+  type: B
+  author: MattiaMaramotti
+  supervisor: SilvioRanise
+  co-supervisor:
+    - AndreaBisegna
+    - RobertoCarbone
+    - LauraCristiano
+    - PietroDeMatteis
+  year: 2025
+  institution: University of Trento
+
+- id: NiccolòLechthaler_B
+  title: "Towards the Parametrization of Security Testing Tools for IdM Implementations: The MIG-T Case Study"
+  type: B
+  author: NiccolòLechthaler
+  supervisor: SilvioRanise
+  co-supervisor:
+    - AndreaBisegna
+    - LauraCristiano
+    - PietroDeMatteis
+  year: 2025
+  institution: University of Trento
+
+  - id: CarloSorrentino_B
+  title: "Automazione di supporto alla selezione di immagini Docker sicure"
+  type: B
+  author: CarloSorrentino
+  supervisor: DomenicoSiracusa
+  co-supervisor:
+    - PietroDeMatteis
+    - LuisAugustoDiasKnob
+  year: 2025
+  institution: University of Trento
+
+  - id: RobertoSavi_B
+  title: "Integrating Pentesting Tools for Identity Management Protocols into DevSecOps: The MIG-T Use Case"
+  type: B
+  author: RobertoSavi
+  supervisor: SilvioRanise
+  co-supervisor:
+    - AndreaBisegna
+    - RobertoCarbone
+    - LauraCristiano
+    - PietroDeMatteis
+  year: 2024
+  institution: University of Trento
+
+# 2024
+
 - id: SimoneVigasio_B
   author: SimoneVigasio
   type: B
@@ -19,6 +82,20 @@
     - MatteoRizzi
     - SalvatoreManfredi
 
+- id: FilippoDeGrandi_B
+  title: BAS Tools - Implementation of an Attack Pattern to Mimic a Threat Actor
+  type: B
+  author: FilippoDeGrandi
+  supervisor: DomenicoSiracusa
+  co-supervisor:
+    - MatteoRizzi
+    - SalvatoreManfredi
+    - PietroDeMatteis
+  year: 2024
+  institution: University of Trento
+
+# 2021
+
 - id: ValentinoArmani_M
   author: ValentinoArmani
   type: M
@@ -27,3 +104,4 @@
   year: 2021
   supervisor: DomenicoSiracusa
   co-supervisor: FrancescomariaFaticanti
+

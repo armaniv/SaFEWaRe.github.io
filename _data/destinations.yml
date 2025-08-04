@@ -47,6 +47,10 @@
   type: conference
   proceedings: Proceedings of 2024 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)
 
+- id: 202510thieeeeuropeansymposiumonsecurityandprivacyworkshopseurospw
+  name: 2025 10th IEEE European Symposium on Security and Privacy Workshops (EuroSPW)
+  type: conference
+
 - id: 39theuropeanconferenceandexhibitiononopticalcommunicationecoc2013
   name: 39th European Conference and Exhibition on Optical Communication, Ecoc 2013
   type: conference
@@ -64,6 +68,10 @@
 
 - id: crosslayerdesigninopticalnetworks
   name: Cross-layer Design in Optical Networks
+  type: conference
+
+- id: ieee33rdinternationalrequirementsengineeringconferenceworkshopsrew
+  name: IEEE 33rd International Requirements Engineering Conference Workshops (REW)
   type: conference
 
 - id: internationaljournalofadaptiveresilientandautonomicsystems
