@@ -28,7 +28,7 @@ layout: page
             <ul class="no-bullet">
                 {% if collaboration.startYear or collaboration.endYear %}<li><b>Period</b>:{% if collaboration.startYear %} from {{ collaboration.startYear }}{% endif %}{% if collaboration.endYear %} until {{ collaboration.endYear }}{% endif %}.</li>{% endif %}
 
-                {% if collaboration.officialUrl %}<li><b>Website</b>: <a href="{{ collaborationFromId.officialUrl }}">{{ collaboration.officialUrl }}</a></li>{% endif %}
+                {% if collaboration.officialUrl %}<li><b>Website</b>: <a href="{{ collaboration.officialUrl }}">{{ collaboration.officialUrl }}</a></li>{% endif %}
             </ul>
         </div>
     {% endif %}
